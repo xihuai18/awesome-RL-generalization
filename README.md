@@ -1,6 +1,21 @@
 # rl-generalization-paper
 A list of papers regarding generalization in (deep) reinforcement learning. Please feel free to open an issue to add papers.
 
+
+### 2023
+* [ICLR 2023] [Investigating Multi-Task Pretraining and Generalization in Reinforcement Learning](https://openreview.net/pdf?id=sSt9fROSZRO)
+* [ICLR 2023] [Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories](https://openreview.net/pdf?id=ipflrGaf7ry)
+* [ICLR 2023] [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
+* [ICLR 2023] [Powderworld: A Platform for Understanding Generalization via Rich Task Distributions](https://openreview.net/forum?id=AWZgXGmsbA)
+* [ICLR 2023] [BC-IRL: Learning Generalizable Reward Functions from Demonstrations](https://openreview.net/forum?id=Ovnwe_sDQW)
+* [ICLR 2023] [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://openreview.net/forum?id=sPgP6aISLTD)
+* [ICLR 2023] [When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning](https://openreview.net/forum?id=lMO7TC7cuuh)
+* [ICLR 2023] [RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HnSceSzlfrY)
+* [ICLR 2023] [MANISKILL2: A UNIFIED BENCHMARK FOR GENERALIZABLE MANIPULATION SKILLS](https://openreview.net/pdf?id=b_CQDy9vrD1)
+* [ICML2023] [Model-agnostic Measure of Generalization Difficulty](http://proceedings.mlr.press/v202/boopathy23a/boopathy23a.pdf)
+* [ICML2023] [On the Power of Pre-training for Generalization in RL: Provable Benefits and Hardness](https://proceedings.mlr.press/v202/ye23a/ye23a.pdf)
+* [ICML2023] [The Benefits of Model-Based Generalization in Reinforcement Learning](http://proceedings.mlr.press/v202/young23a/young23a.pdf)
+
 ### 2022
 
 * [NeurIPS 2022] [Rethinking Value Function Learning for Generalization in Reinforcement Learning](https://arxiv.org/abs/2210.09960)
