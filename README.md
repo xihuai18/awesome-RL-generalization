@@ -1,7 +1,10 @@
 # rl-generalization-paper
 A list of papers regarding generalization in (deep) reinforcement learning. Please feel free to open an issue to add papers.
 
+Surveys
+* [JAIR 2023] [A Survey of Zero-shot Generalisation in Deep Reinforcement Learning](https://www.jair.org/index.php/jair/article/view/14174/26890)
 
+Technical papers
 ### 2023
 * [ICLR 2023] [Investigating Multi-Task Pretraining and Generalization in Reinforcement Learning](https://openreview.net/pdf?id=sSt9fROSZRO)
 * [ICLR 2023] [Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories](https://openreview.net/pdf?id=ipflrGaf7ry)
